@@ -1,0 +1,5 @@
+belajar membuat branch
+git checkout -b fitur_2
+git add .
+git commit -m "fitur 2"
+git push -u origin fitur_2
